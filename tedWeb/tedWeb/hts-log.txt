@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Aug 2018 11:20:27 at http://jasoseol.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://jasoseol.com/ -O1 "C:\ITStudy\2.bigData\tedWeb\tedWeb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:32:12	Error: 	"Not Found" (404) at link jasoseol.com/images/index/slide1.png (from jasoseol.com/assets/application_web_index-b06f2a93032de603380f1ce3fb9fe65728eed281b2ccfab6d4ad1b72b1081a18.css)
+11:32:12	Error: 	"Not Found" (404) at link jasoseol.com/images/index/slide2.png (from jasoseol.com/assets/application_web_index-b06f2a93032de603380f1ce3fb9fe65728eed281b2ccfab6d4ad1b72b1081a18.css)
+11:32:12	Error: 	"Not Found" (404) at link jasoseol.com/images/index/slide3.png (from jasoseol.com/assets/application_web_index-b06f2a93032de603380f1ce3fb9fe65728eed281b2ccfab6d4ad1b72b1081a18.css)
+11:32:12	Error: 	"Not Found" (404) at link jasoseol.com/images/index/slide4.png (from jasoseol.com/assets/application_web_index-b06f2a93032de603380f1ce3fb9fe65728eed281b2ccfab6d4ad1b72b1081a18.css)
+11:32:12	Error: 	"Not Found" (404) at link jasoseol.com/images/index/slide5.png (from jasoseol.com/assets/application_web_index-b06f2a93032de603380f1ce3fb9fe65728eed281b2ccfab6d4ad1b72b1081a18.css)
+11:53:48	Error: 	"Not Found" (404) at link jasoseol.com/assets/twitter/fonts/glyphicons-halflings-regular.eot (from jasoseol.com/assets/application_web_main-c08f5cbd150ac70f1ce12b384f512d1b446bcd1b5e93e13cd6c478d55af38b85.css)
+11:53:48	Error: 	"Not Found" (404) at link jasoseol.com/assets/twitter/fonts/glyphicons-halflings-regular.eot? (from jasoseol.com/assets/application_web_main-c08f5cbd150ac70f1ce12b384f512d1b446bcd1b5e93e13cd6c478d55af38b85.css)
+11:53:48	Error: 	"Not Found" (404) at link jasoseol.com/assets/twitter/fonts/glyphicons-halflings-regular.woff (from jasoseol.com/assets/application_web_main-c08f5cbd150ac70f1ce12b384f512d1b446bcd1b5e93e13cd6c478d55af38b85.css)
+11:53:48	Error: 	"Not Found" (404) at link jasoseol.com/assets/twitter/fonts/glyphicons-halflings-regular.ttf (from jasoseol.com/assets/application_web_main-c08f5cbd150ac70f1ce12b384f512d1b446bcd1b5e93e13cd6c478d55af38b85.css)
+11:53:48	Error: 	"Not Found" (404) at link jasoseol.com/assets/twitter/fonts/glyphicons-halflings-regular.svg (from jasoseol.com/assets/application_web_main-c08f5cbd150ac70f1ce12b384f512d1b446bcd1b5e93e13cd6c478d55af38b85.css)
+11:53:48	Warning: 	File not parsed, looks like binary: jasoseol.com/assets/MaterialIcons-Regular.woff2
+12:18:43	Error: 	"Not Found" (404) at link jasoseol.com/blog/post/www.mind3.co.kr (from jasoseol.com/blog/post/54)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 5 minutes 55 seconds : 732 links scanned, 720 files written (111385610 bytes overall) [98107112 bytes received at 24805 bytes/sec], 33732795 bytes transferred using HTTP compression in 244 files, ratio 59%, 1.3 requests per connection
+(11 errors, 1 warnings, 0 messages)
