@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+C:\ITstudy\ProjectTed\.metadata\.plugins\org.eclipse.jdt.core
+1622776731.index
+2301944148.index
+984225034.index
+2546077257.index
+4130408540.index
+1776459183.index
+1084624933.index
+2511617568.index
+3819707233.index
+3854475047.index
+1233982933.index
+2773834657.index
+398058497.index
+1870878615.index
+4289135590.index
+1988513050.index

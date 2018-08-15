@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="2">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost/BBS/join.jsp|*|http\://localhost/BBS/login.jsp|*|http\://localhost/BBS/|*|http\://localhost/BBS/main.jsp|*|http\://localhost/BBS/WEB-INF/classes/user/User.java|*|http\://localhost/BBS/loginAction.jsp|*|http\://localhost/BBS/WEB-INF/classes/user/UserDAO.java|*|http\://www.eclipse.org|*|http\://localhost\:8080/BBS/loginAction.jsp|*|http\://localhost\:8080/BBS/login.jsp|*|http\://localhost\:8080/BBS/main.jsp|*|http\://localhost\:8080/BBS/index.jsp|*|
