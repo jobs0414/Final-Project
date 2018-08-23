@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/modal_pop.css">
+<head>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['bar']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart(data) {
+          var data = google.visualization.arrayToDataTable(data)
+    	  //alert(data);
+    	  data = eval(data);
+    	  console.log(data);
+    	  
+        var options = {
+                  title: '실시간 인기 주제',
+                  colors: ['red'],
+                  titleTextStyle: {
+                	    color: 'black',
+                	    fontSize:50,
+                	    bold:true
+              	  }
+              };
+
+              var chart = new google.charts.Bar(document.getElementById('barchart'));
+
+              chart.draw(data, google.charts.Bar.convertOptions(options));
+            }
+    </script>
+</head>
+<body onLoad="ajaxReq()">
+    <div id="barchart" style="width: 600px; height: 800px;"></div>
+
+	<script type="text/javascript">
+	function ajaxReq(){
+		var xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				//alert(this.responseText);
+				data = eval(this.responseText);
+				drawChart(data);
+			}
+		};
+		xhttp.open("GET", "MainController?command=realtime", true);
+		xhttp.send();
+	}
+</script>
+
+  <div class="w3-row-padding">
+    <div class="w3-third w3-container w3-margin-bottom">
+      <div class="modal-div">
+		<script type="text/javascript">
+    	function searchCount(v){
+    		//alert("--- " + v);
+    		
+    		var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (this.readyState == 4 && this.status == 200) {
+					data = eval(this.responseText);
+					dataView(data);
+				}
+			};
+			//data = document.getElementById("searchWord").value;
+			//alert(data);
+			//한글 데이터를 utf-8 형태로 변환
+			//data = encodeURIComponent(data);
+			//xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			xhttp.open("get", "MainController?command=searchCount&word="+v, true);
+			//post방식으로 서버에 데이터 전송을 위한 필수 설정
+			//alert(1);
+			xhttp.send(null);
+    	}
+    </script>	
+	</div>
+    </div>
+  </div>
+</body>
+</html>
