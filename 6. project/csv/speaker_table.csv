@@ -1,0 +1,91 @@
+speaker_no,speaker_name,speaker_occupation,photo,ted_no,topic,web_site
+1,Julian Treasure,Sound consultant,ArtTop1,7,Art,https://www.juliantreasure.com/
+2,Robert Waldinger,Psychiatrist. psychoanalyst and Zen priest,ArtTop2,8,Art,http://robertwaldinger.com/
+3,Benjamin Zander,Conductor,ArtTop3,12,Art,https://www.benjaminzander.org/
+4,David Christian,Historian,ArtTop4,16,Art,https://school.bighistoryproject.com/bhplive
+5,Rita Pierson,Educator,ArtTop5,17,Art,https://www.huffingtonpost.com/rita-f-pierson/student-teacher-relationships_b_3203159.html
+6,Russell Foster,Circadian neuroscientist,ArtTop6,19,Art,https://www.ndcn.ox.ac.uk/team/russell-foster
+7,Jane McGonigal,Game Designer,ArtTop7,49,Art,https://twitter.com/avantgame
+8,Daphne Bavelier,Cognitive researcher,ArtTop8,59,Art,https://www.unige.ch/fapse/brainlearning/
+9,Roman Mars,Digital storyteller,ArtTop9,72,Art,http://romanmars.com/
+10,Lennart Green,Close-up card magician,ArtTop10,74,Art,https://en.wikipedia.org/wiki/Lennart_Green
+11,Barry Schwartz,Psychologist,EconomyTop1,31,Economy,http://www.swarthmore.edu/SocSci/bschwar1/
+12,Malcolm Gladwell,Writer,EconomyTop2,29,Economy,http://gladwell.typepad.com/gladwellcom/
+13,Meaghan Ramsey,Self-esteem advocate,EconomyTop3,1709,Economy,https://twitter.com/MeaghanRx
+14,Reshma Saujani,Education activist,EconomyTop4,2021,Economy,https://girlswhocode.com/
+15,Hans Rosling,Global health expert; data visionary,EconomyTop5,111,Economy,https://www.gapminder.org/
+16,Steven Levitt,Economist,EconomyTop6,28,Economy,http://freakonomics.com/
+17,Marc Kushner,Architect,EconomyTop7,1804,Economy,https://architizer.com/
+18,Alexa Meade,Visual artist,EconomyTop8,1455,Economy,https://alexameade.com/
+19,Danielle Feinberg,Director of photography. Pixar,EconomyTop9,2043,Economy,http://daniellefeinberg.com/
+20,Julie Lythcott-Haims,Academic. author,EconomyTop10,2140,Economy,https://www.julielythcotthaims.com/
+21,Ken Robinson,Author/educator,EducationTop1,1,Education,http://sirkenrobinson.com/
+22,Angela Lee Duckworth,Psychologist,EducationTop2,1385,Education,https://www.ted.com/speakers/angela_lee_duckworth
+23,Meg Jay,Clinical psychologist,EducationTop3,1387,Education,https://megjay.com/
+24,Arthur Benjamin,Mathemagician,EducationTop4,160,Education,https://www.math.hmc.edu/~benjamin/
+25,Louie Schwartzberg,Filmmaker,EducationTop5,1598,Education,https://movingart.com/
+26,Shai Reshef,Education entrepreneur,EducationTop6,1667,Education,https://www.ted.com/speakers/shai_reshef
+27,Gever Tulley,Tinkerer,EducationTop7,162,Education,http://www.gevertulley.com/
+28,Brian Little,Personality researcher,EducationTop8,2095,Education,http://www.brianrlittle.com/?doing_wp_cron=1534574232.0544300079345703125000
+29,Suki Kim,Writer,EducationTop9,1861,Education,http://www.sukikim.com/
+30,Julia Sweeney,Actor. Comedian. playwright,EducationTop10,633,Education,https://www.juliasweeney.com/
+31,Amy Cuddy,Social psychologist,EnvironmentTop1,1236,Environment,https://twitter.com/amyjccuddy
+32,James Veitch,Comedian and writer,EnvironmentTop2,1981,Environment,https://www.veitch.me/
+33,Amanda Palmer,Musician. blogger,EnvironmentTop3,1335,Environment,http://amandapalmer.net/
+34,Esther Perel,Relationship therapist,EnvironmentTop4,1850,Environment,https://www.estherperel.com/
+35,Judson Brewer,Mindful addiction doctor,EnvironmentTop5,1998,Environment,https://www.judsonbrewer.com/
+36,Sheryl Sandberg,COO. Facebook,EnvironmentTop6,773,Environment,https://www.facebook.com/sheryl
+37,Candy Chang,Artist. designer. urban planner,EnvironmentTop7,1275,Environment,http://candychang.com/
+38,Andrew Solomon,Writer,EnvironmentTop8,1628,Environment,http://andrewsolomon.com/
+39,Joshua Foer,Writer,EnvironmentTop9,1123,Environment,https://www.ted.com/speakers/joshua_foer
+40,Simon Anholt,Policy advisor,EnvironmentTop10,1655,Environment,https://goodcountry.org/
+41,Shawn Achor,Psychologist,Health_MedicalTop1,1046,Health_Medical,https://www.ted.com/speakers/shawn_achor
+42,David Blaine,Illusionist. endurance artist,Health_MedicalTop2,555,Health_Medical,https://davidblaine.com/
+43,Apollo Robbins,Gentleman thief,Health_MedicalTop3,1460,Health_Medical,http://www.apollorobbins.com/
+44,Hans Rosling,Global health expert; data visionary,Health_MedicalTop4,5,Health_Medical,https://www.gapminder.org/
+45,Maysoon Zayid,Comedian and writer ,Health_MedicalTop5,1531,Health_Medical,https://maysoon.com/
+46,Celeste Headlee,Writer and radio host,Health_MedicalTop6,2007,Health_Medical,https://twitter.com/celesteheadlee
+47,Andy Puddicombe,Mindfulness expert,Health_MedicalTop7,1303,Health_Medical,https://www.headspace.com/
+48,BLACK,Yo-yo champion,Health_MedicalTop8,1369,Health_Medical,https://www.officeblack.com/
+49,Kang Lee,Developmental researcher,Health_MedicalTop9,2071,Health_Medical,http://www.kangleelab.com/
+50,Adora Svitak,Child prodigy,Health_MedicalTop10,604,Health_Medical,http://www.adorasvitak.com/
+51,Jamie Oliver,Chef. activist,PoliticsTop1,569,Politics,https://signup.jamiesfoodrevolution.com/
+52,James Veitch,Comedian and writer,PoliticsTop2,2134,Politics,https://www.veitch.me/
+53,Elizabeth Loftus,False memories scholar,PoliticsTop3,1466,Politics,http://staff.washington.edu/eloftus/
+54,Improv Everywhere,Social energy entrepreneur,PoliticsTop4,1078,Politics,https://improveverywhere.com/
+55,Jonathan Haidt,Social psychologist,PoliticsTop5,272,Politics,http://people.stern.nyu.edu/jhaidt/
+56,Skylar Tibbits,Inventor,PoliticsTop6,1358,Politics,http://www.sjet.us/
+57,Julian Assange,Whistleblower,PoliticsTop7,677,Politics,https://wikileaks.org/
+58,Alex Kipman,Inventor,PoliticsTop8,2035,Politics,https://twitter.com/akipman
+59,Ben Goldacre,Debunker,PoliticsTop9,959,Politics,http://www.alltrials.net/
+60,Aimee Mullins,Athlete and actor,PoliticsTop10,572,Politics,http://www.aimeemullins.com/
+61,Tony Robbins,Life coach; expert in leadership psychology,Self-developmentTop1,6,Self-development,https://www.tonyrobbins.com/
+62,Pamela Meyer,Lie detector,Self-developmentTop2,969,Self-development,https://www.ted.com/speakers/pamela_meyer
+63,Kelly McGonigal,Health psychologist,Self-developmentTop3,1453,Self-development,http://kellymcgonigal.com/
+64,Chimamanda Ngozi Adichie,Novelist,Self-developmentTop4,497,Self-development,https://www.chimamanda.com/
+65,Elizabeth Gilbert,Writer,Self-developmentTop5,356,Self-development,https://www.elizabethgilbert.com/
+66,Richard St. John,Marketer. success analyst,Self-developmentTop6,48,Self-development,http://richardstjohn.com/
+67,Simon Sinek,Leadership expert,Self-developmentTop7,1626,Self-development,https://startwithwhy.com/
+68,BJ Miller,Palliative care physician,Self-developmentTop8,1910,Self-development,https://www.ucsfhealth.org/bj.miller
+69,Seth Godin,Marketer and author,Self-developmentTop9,67,Self-development,https://www.sethgodin.com/
+70,Shane Koyczan,Poet,Self-developmentTop10,1340,Self-development,https://www.shanekoyczan.com/
+71,Simon Sinek,Leadership expert,SocietyTop1,625,Society,https://startwithwhy.com/
+72,Brene Brown,Vulnerability researcher,SocietyTop2,775,Society,https://brenebrown.com/
+73,Mary Roach,Writer,SocietyTop3,421,Society,http://www.maryroach.net/
+74,Dan Pink,Career analyst,SocietyTop4,468,Society,https://www.danpink.com/
+75,Tim Urban,Blogger,SocietyTop5,2027,Society,https://waitbutwhy.com/
+76,Sarah Kay,Poet,SocietyTop6,829,Society,http://kaysarahsera.com/
+77,Esther Perel,Relationship therapist,SocietyTop7,1324,Society,https://www.estherperel.com/
+78,Reggie Watts,Vocalist. beatboxer. comedian,SocietyTop8,1136,Society,http://reggiewatts.com/
+79,Maz Jobrani,Comedian,SocietyTop9,1288,Society,http://www.mazjobrani.com/
+80,Johann Hari,Journalist,SocietyTop10,1880,Society,https://twitter.com/johannhari101
+81,Cameron Russell,Model,Technology_ScienceTop1,1306,Technology_Science,https://twitter.com/CameronCRussell
+82,Susan Cain,Quiet revolutionary,Technology_ScienceTop2,1073,Technology_Science,https://www.quietrev.com/
+83,Pranav Mistry,Director of research. Samsung Research America,Technology_ScienceTop3,518,Technology_Science,http://www.pranavmistry.com/
+84,Dan Gilbert,Psychologist; happiness expert,Technology_ScienceTop4,30,Technology_Science ,http://www.danielgilbert.com/
+85,Keith Barry,Magician,Technology_ScienceTop5,240,Technology_Science ,http://www.keithbarry.com/
+86,Monica Lewinsky,Social activist,Technology_ScienceTop6,1810,Technology_Science,https://www.vanityfair.com/style/society/2014/06/monica-lewinsky-humiliation-culture
+87,Raffaello D'Andrea,Autonomous systems pioneer,Technology_ScienceTop7,1407,Technology_Science,http://raffaello.name/
+88,Pattie Maes,Researcher,Technology_ScienceTop8,373,Technology_Science ,https://www.ted.com/speakers/pattie_maes
+89,Hyeonseo Lee,Activist,Technology_ScienceTop9,1348,Technology_Science,https://www.facebook.com/HyeonseoLeeNK
+90,Helen Fisher,Anthropologist. expert on love,Technology_ScienceTop10,24,Technology_Science ,http://helenfisher.com/

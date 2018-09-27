@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="bbs.Bbs"/>
+<fullyQualifiedTypeName name="modelDTO.UserDTO"/>
+<fullyQualifiedTypeName name="command.BCommand"/>
+<fullyQualifiedTypeName name="command.BWriteCommand"/>
+<fullyQualifiedTypeName name="command.BListCommand"/>
+<fullyQualifiedTypeName name="command.BModifyCommand"/>
+<fullyQualifiedTypeName name="command.BContentCommand"/>
+<fullyQualifiedTypeName name="command.BDeleteCommand"/>
+<fullyQualifiedTypeName name="command.BReplyViewCommand"/>
+<fullyQualifiedTypeName name="command.BReplyCommand"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,181 @@
+topic,text,counting
+Art,design,91
+Art,music,73
+Art,art,66
+Art,entertainment,65
+Art,technology,65
+Art,science,63
+Art,culture,58
+Art,global,58
+Art,health,54
+Art,issues,53
+Art,TEDx,49
+Art,performance,49
+Art,business,47
+Art,creativity,33
+Art,change,32
+Art,innovation,29
+Art,biology,28
+Art,live,28
+Art,storytelling,28
+Art,social,25
+Education,education,35
+Education,science,34
+Education,design,31
+Education,technology,31
+Education,global,25
+Education,issues,23
+Education,children,22
+Education,health,22
+Education,TEDx,21
+Education,culture,21
+Education,art,20
+Education,change,18
+Education,TED,16
+Education,business,16
+Education,innovation,16
+Education,entertainment,15
+Education,social,15
+Education,society,14
+Education,communication,12
+Education,future,12
+Technology_Science ,science,46
+Technology_Science ,innovation,36
+Technology_Science ,technology,34
+Technology_Science ,humanity,32
+Technology_Science ,society,30
+Technology_Science ,TEDx,27
+Technology_Science ,change,27
+Technology_Science ,future,26
+Technology_Science ,health,24
+Technology_Science ,design,23
+Technology_Science ,global,21
+Technology_Science ,art,20
+Technology_Science ,collaboration,20
+Technology_Science ,social,20
+Technology_Science ,communication,19
+Technology_Science ,issues,17
+Technology_Science ,community,16
+Technology_Science ,environment,16
+Technology_Science ,identity,16
+Technology_Science ,potential,16
+Society,global,143
+Society,technology,139
+Society,issues,127
+Society,culture,124
+Society,science,124
+Society,TEDx,123
+Society,health,112
+Society,social,96
+Society,change,93
+Society,design,93
+Society,business,89
+Society,society,77
+Society,TED,72
+Society,communication,55
+Society,community,55
+Society,innovation,54
+Society,activism,51
+Society,art,51
+Society,collaboration,50
+Society,future,50
+Health_Medical,health,93
+Health_Medical,science,68
+Health_Medical,technology,53
+Health_Medical,global,44
+Health_Medical,issues,37
+Health_Medical,culture,35
+Health_Medical,TEDx,33
+Health_Medical,design,31
+Health_Medical,biology,29
+Health_Medical,medicine,25
+Health_Medical,business,23
+Health_Medical,care,23
+Health_Medical,change,23
+Health_Medical,entertainment,23
+Health_Medical,social,23
+Health_Medical,art,22
+Health_Medical,TED,21
+Health_Medical,brain,20
+Health_Medical,communication,20
+Health_Medical,humanity,19
+Environment,science,47
+Environment,technology,46
+Environment,global,44
+Environment,change,37
+Environment,health,35
+Environment,issues,35
+Environment,culture,32
+Environment,environment,32
+Environment,TEDx,25
+Environment,climate,24
+Environment,design,24
+Environment,business,21
+Environment,nature,20
+Environment,energy,17
+Environment,future,17
+Environment,TED,16
+Environment,social,16
+Environment,society,16
+Environment,biology,15
+Environment,green,15
+Politics,global,18
+Politics,issues,15
+Politics,technology,15
+Politics,culture,14
+Politics,TEDx,12
+Politics,change,11
+Politics,politics,11
+Politics,social,10
+Politics,science,9
+Politics,art,8
+Politics,business,8
+Politics,health,8
+Politics,society,8
+Politics,design,7
+Politics,future,7
+Politics,communication,6
+Politics,history,6
+Politics,performance,6
+Politics,psychology,6
+Politics,States,5
+Self-development,technology,60
+Self-development,health,59
+Self-development,science,56
+Self-development,global,51
+Self-development,issues,48
+Self-development,TEDx,39
+Self-development,culture,39
+Self-development,design,36
+Self-development,biology,33
+Self-development,business,32
+Self-development,entertainment,28
+Self-development,innovation,23
+Self-development,humanity,22
+Self-development,medicine,22
+Self-development,TED,21
+Self-development,art,21
+Self-development,communication,21
+Self-development,society,21
+Self-development,social,20
+Self-development,creativity,19
+Economy,business,31
+Economy,global,31
+Economy,technology,27
+Economy,economics,25
+Economy,issues,24
+Economy,science,22
+Economy,design,19
+Economy,culture,18
+Economy,health,13
+Economy,TEDx,12
+Economy,art,12
+Economy,innovation,12
+Economy,computers,10
+Economy,women,10
+Economy,Africa,9
+Economy,media,9
+Economy,creativity,8
+Economy,engineering,8
+Economy,TED,7
+Economy,collaboration,7

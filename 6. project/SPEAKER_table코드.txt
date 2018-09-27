@@ -1,0 +1,12 @@
+---------------Speaker table 만들기---------------------
+
+create table SPEAKER(
+    speaker_no number(3) primary key,
+    speaker_name varchar(100),
+    speaker_occupation varchar(100),
+    ted_no number(10) constraint SPEAKER_fk references TED(ted_no),
+    topic varchar(50),
+    web_site varchar(300)
+);
+
+---------------------Speaker table 행 삽입하기---------------------------
